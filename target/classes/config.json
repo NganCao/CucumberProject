@@ -1,0 +1,7 @@
+{
+  "choTot": {
+    "urlHome": "https://www.chotot.com/",
+    "browser": "chrome",
+    "wait": 20
+  }
+}

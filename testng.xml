@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite for Cho Tot">
+    <listeners>
+        <listener class-name="helpers.ListenerHelper"></listener>
+    </listeners>
+    <test name="test for web">
+        <classes>
+            <class name="choTot.test.LoginRunner"/>
+        </classes>
+    </test>
+</suite>

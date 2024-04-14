@@ -1,0 +1,17 @@
+{
+  "title": "Đăng nhập",
+  "formLogin": {
+    "phone": "Số điện thoại",
+    "password": "Mật khẩu",
+    "loginButton": "Đăng nhập",
+    "forgotPassword": "Quên mật khẩu?"
+  },
+  "otherMethod": {
+    "orLoginBy": "Hoặc đăng nhập bằng",
+    "facebook": "Facebook",
+    "goofle": "Google",
+    "appleId": "Apple ID"
+  },
+  "registerQuestion": "Chưa có tài khoản?",
+  "registerButton": "Đăng ký tài khoản mới"
+}
